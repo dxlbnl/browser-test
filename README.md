@@ -1,3 +1,4 @@
 # BROWSER-TEST
 
+TEST
 test
